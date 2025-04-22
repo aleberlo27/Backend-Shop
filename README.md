@@ -29,3 +29,4 @@ http://localhost:3000/api/seed
 ```
 
 # Production notes:
+https://backend-shop-zlbt.onrender.com/api/
